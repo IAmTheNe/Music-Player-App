@@ -2,6 +2,11 @@
 
 Music Player App
 
+## Demo
+<img height="380px" src="screenshot\z4079300706517_4cdd7c185aff8ddaeeb63d661e7bfe23.jpg"
+     alt="Demo" Screenshot_1676100663.png
+     style="float: left; margin-right: 10px;" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
